@@ -1,4 +1,4 @@
-### EDA-data-analytics-using-Sales-data
+### EDA-data-analytics-using-Sales-data using Jupyter notebook
 ###### Exploratory Data Analytics(EDA) using a Real world sales data by Anduamlak_Y.
 ###### Tasks i executed:
 ######  1. What is the best month for sales? How much it was earned ?
